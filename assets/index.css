@@ -1,0 +1,38 @@
+.card_edit {
+  border: 2px solid black;
+  height: 180px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.margin_left {
+  margin-left: 210px;
+}
+
+span {
+  margin-left: 250px;
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+  padding: 10px 15px;
+  background-color: rgb(40, 148, 243);
+  color: white;
+}
+
+label {
+  font-size: 20px;
+  padding: 10px 40px;
+  background-color: rgb(35, 137, 226);
+  color: white;
+}
+
+.start_game {
+  background-color: rgba(0, 0, 0, 0.781);
+}
+#resetGame {
+  background-color: crimson;
+  font-weight: 600;
+}
